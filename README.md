@@ -8,3 +8,8 @@ pip install uvicorn
 ```
 uvicorn main:app --reload
 ```
+## Test
+```
+http://localhost:8000/docs
+```
+
